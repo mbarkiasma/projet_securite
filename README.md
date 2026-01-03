@@ -58,7 +58,6 @@ Si une vérification échoue, le serveur affiche une alerte explicite.
 
 ## Structure du projet
 
-```text
 P2C1_mitm_detection/
 ├── README.md
 ├── .gitignore
