@@ -58,27 +58,28 @@ Si une vérification échoue, le serveur affiche une alerte explicite.
 
 ## Structure du projet
 
+
 P2C1_mitm_detection/
 │
 ├── README.md
 ├── .gitignore
 │
 ├── src/
-│   │
-│   └── mitm_guard/
-│       │
-│       ├── __init__.py
-│       ├── cli.py
-│       ├── client.py
-│       ├── server.py
-│       ├── protocol.py
-│       ├── detector.py
-│       ├── demo.py
-│       └── utils.py
+│ │
+│ └── mitm_guard/
+│ │
+│ ├── init.py
+│ ├── cli.py
+│ ├── client.py
+│ ├── server.py
+│ ├── protocol.py
+│ ├── detector.py
+│ ├── demo.py
+│ └── utils.py
 │
 └── tests/
-    │
-    └── run_tests.py
+│
+└── run_tests.py
 
 
 ---
